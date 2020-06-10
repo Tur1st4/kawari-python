@@ -11,9 +11,9 @@ Bot para o servidor Animes Kawari do Discord.
 - [X] Criar arquivo main.py
 - [X] Iniciar o bot pela primeira vez
 - [ ] clan invite
-- [ ] kiss
-- [ ] hug
-- [ ] pat
-- [ ] cuddle
+- [X] kiss
+- [X] hug
+- [X] pat
+- [X] cuddle
 - [X] smug
 - [ ] clan create
