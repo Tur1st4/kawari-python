@@ -16,4 +16,4 @@ Bot para o servidor Animes Kawari do Discord.
 - [X] pat
 - [X] cuddle
 - [X] smug
-- [ ] clan create
+- [X] clan create
