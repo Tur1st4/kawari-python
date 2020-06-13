@@ -18,7 +18,7 @@ Bot para o servidor Animes Kawari do Discord.
 - [X] smug
 - [X] clan create
 - [ ] clan list
-- [ ] clan delete
+- [X] clan delete
 - [ ] clan promote
 - [ ] clan demote
 - [ ] clan
