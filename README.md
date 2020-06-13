@@ -19,10 +19,9 @@ Bot para o servidor Animes Kawari do Discord.
 - [X] clan create
 - [ ] clan list
 - [X] clan delete
-- [ ] clan promote
-- [ ] clan demote
+- [X] clan promote
+- [X] clan demote
 - [ ] clan
 - [ ] clan name
 - [ ] clan icon
 - [ ] clan kick
-- [ ] clan fdelete
