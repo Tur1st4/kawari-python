@@ -17,11 +17,11 @@ Bot para o servidor Animes Kawari do Discord.
 - [X] cuddle
 - [X] smug
 - [X] clan create
-- [ ] clan list
+- [X] clan list
 - [X] clan delete
 - [X] clan promote
 - [X] clan demote
-- [ ] clan
+- [X] clan
 - [X] clan name
-- [ ] clan icon
+- [X] clan icon
 - [X] clan kick
