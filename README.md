@@ -22,6 +22,6 @@ Bot para o servidor Animes Kawari do Discord.
 - [X] clan promote
 - [X] clan demote
 - [ ] clan
-- [ ] clan name
+- [X] clan name
 - [ ] clan icon
-- [ ] clan kick
+- [X] clan kick
