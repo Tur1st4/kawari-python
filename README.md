@@ -6,22 +6,13 @@ Bot para o servidor Animes Kawari do Discord.
 
 ## Andamento do projeto
 
-- [X] Criar árvore de diretórios
-- [X] Criar arquivo básico de comando
-- [X] Criar arquivo main.py
-- [X] Iniciar o bot pela primeira vez
-- [X] clan invite
-- [X] kiss
-- [X] hug
-- [X] pat
-- [X] cuddle
-- [X] smug
-- [X] clan create
-- [X] clan list
-- [X] clan delete
-- [X] clan promote
-- [X] clan demote
-- [X] clan
-- [X] clan name
-- [X] clan icon
-- [X] clan kick
+- [ ] clan invite
+- [ ] clan create
+- [ ] clan list
+- [ ] clan delete
+- [ ] clan promote
+- [ ] clan demote
+- [ ] clan
+- [ ] clan name
+- [ ] clan icon
+- [ ] clan kick
